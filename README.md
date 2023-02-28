@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balasubramanian
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Developer Field
+- 🌱 I’m currently Working in C#.Net and PHP
+- 
 - 
 
 <!---
